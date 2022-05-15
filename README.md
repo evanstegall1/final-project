@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thunderstorm
 
 You can use the [editor on GitHub](https://github.com/evanstegall1/final-project/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
