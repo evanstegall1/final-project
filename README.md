@@ -13,3 +13,20 @@ Ellipses move at varying rates to show the atmospheric turmoil of a storm
 #### Lightning
 The event of lightning, triggered by any key, fills the screen with a breif semi-transparent white flash
 Each flash occurs twice and triggers a sound event
+
+### Sound using tone.js
+#### Rain Sample
+Used a sample of rainfall which plays while the user has the program raining
+#### Background Music
+Used a sequence of notes in a synthesizer to loop while program is running
+#### Thunder
+Used a membrane synth to trigger a drum like sound when lightning is triggered
+
+### Physical Computing
+#### Button
+Employed a digital signal to change the color of the background to a random color each time the user presses the button
+#### LED
+Used a digital signal to flash the LEDs in accordance with each lightning event
+
+## Errors
+Could not figure out how to connect my arduino signal to the p5
